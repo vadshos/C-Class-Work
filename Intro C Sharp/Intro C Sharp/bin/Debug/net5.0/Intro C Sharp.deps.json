@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Intro C Sharp/1.0.0": {
+        "runtime": {
+          "Intro C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intro C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

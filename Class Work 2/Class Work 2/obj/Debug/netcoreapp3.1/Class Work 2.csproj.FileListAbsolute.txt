@@ -1,0 +1,13 @@
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.exe
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.deps.json
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.runtimeconfig.json
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.runtimeconfig.dev.json
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.dll
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\bin\Debug\netcoreapp3.1\Class Work 2.pdb
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.csprojAssemblyReference.cache
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.AssemblyInfoInputs.cache
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.AssemblyInfo.cs
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.csproj.CoreCompileInputs.cache
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.dll
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.pdb
+D:\Study IT STEP academy\Pattern-home-work\Class Work 2\Class Work 2\obj\Debug\netcoreapp3.1\Class Work 2.genruntimeconfig.cache

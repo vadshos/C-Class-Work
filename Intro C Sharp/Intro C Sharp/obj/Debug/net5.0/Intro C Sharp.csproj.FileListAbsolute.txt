@@ -1,0 +1,16 @@
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.exe
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.deps.json
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.runtimeconfig.json
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.runtimeconfig.dev.json
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.dll
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\ref\Intro C Sharp.dll
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\bin\Debug\net5.0\Intro C Sharp.pdb
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.csprojAssemblyReference.cache
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.AssemblyInfoInputs.cache
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.AssemblyInfo.cs
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.dll
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\ref\Intro C Sharp.dll
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.pdb
+C:\Users\proto\source\repos\Intro C Sharp\Intro C Sharp\obj\Debug\net5.0\Intro C Sharp.genruntimeconfig.cache
